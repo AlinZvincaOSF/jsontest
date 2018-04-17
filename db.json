@@ -7,25 +7,25 @@
 		"sign": "$",
 		"percent": "5",
 		"upordown": "up",
-		"data": {
-			"labels": null,
-			"datasets": [{
+		"labels": null,
+		"datas": [
+			{
 				"data": [
-						  2,
-						  4,
-						  3,
-						  6,
-						  5,
-						  8,
-						  7,
-						  10,
-						  9,
-						  12,
-						  13,
-						  15
-						]
-			}]
-		}
+				  2,
+				  4,
+				  3,
+				  6,
+				  5,
+				  8,
+				  7,
+				  10,
+				  9,
+				  12,
+				  13,
+				  15
+				]
+			}
+		]
 	},
 	"chartType": "line"
   },
@@ -37,25 +37,25 @@
 		"sign": "%",
 		"percent": "2",
 		"upordown": "down",
-		"data": {
-			"labels": null,
-			"datasets": [{
+		"labels": null,
+		"datas": [
+			{
 				"data": [
-						  9,
-						  5,
-						  6,
-						  6,
-						  9,
-						  6,
-						  11,
-						  6,
-						  7,
-						  6,
-						  5,
-						  3
-						]
-			}]
-		}
+				  9,
+				  5,
+				  6,
+				  6,
+				  9,
+				  6,
+				  11,
+				  6,
+				  7,
+				  6,
+				  5,
+				  3
+				]
+			}
+		]
 	},
 	"chartType": "line"
   },
@@ -67,12 +67,12 @@
 		"sign": null,
 		"percent": null,
 		"upordown": null,
-		"data": {
-			"labels": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
-			"datasets": [{
+		"labels": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
+		"datas": [
+			{
 				"data": [80000, 90000, 80000, 120000, 60000, 75000, 80000, 80000, 32000, 80000, 80000, 110000]
-			}]
-		}
+			}
+		]
 	},
 	"chartType": "bar"
   }
