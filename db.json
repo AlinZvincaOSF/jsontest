@@ -19,7 +19,8 @@
       12,
       13,
       15
-    ]
+    ],
+	"chartType": "line"
   },
   "chart1": {
     "type": "simple",
@@ -41,6 +42,7 @@
       6,
       5,
       3
-    ]
+    ],
+	"chartType": "line"
   }
 }
