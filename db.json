@@ -48,5 +48,22 @@
 		]
 	},
 	"chartType": "line"
+  },
+  "chart2": {
+	"chartData": {
+		"type": "advanced",
+		"title": null,
+		"value": null,
+		"sign": null,
+		"percent": null,
+		"upordown": null,
+		"data": {
+			labels: ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
+			datasets: [{
+				data: [80000, 90000, 80000, 120000, 60000, 75000, 80000, 80000, 32000, 80000, 80000, 110000, ]
+			}]
+		 }
+	},
+	"chartType": "line"
   }
 }
