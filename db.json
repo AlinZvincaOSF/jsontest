@@ -76,8 +76,7 @@
 	},
 	"chartType": "bar"
   },
-  "smart-text": {
-	"all" : {
+  "smart-text-all": {
 		"received": "$100,000",
 		"fundraisers": "1,200",
 		"supporters": "6000",
@@ -87,8 +86,8 @@
 		"messages": "32,000",
 		"likelihood": "98",
 		"involved": "23"
-	},
-	"recent" : {
+  },
+  "smart-text-recent" : {
 		"received": "$100,000",
 		"fundraisers": "1,200",
 		"supporters": "6000",
@@ -98,9 +97,8 @@
 		"messages": "32,000",
 		"likelihood": "98",
 		"involved": "23"
-	},
-	"custom" : {
-		"july": {
+  },
+  "smart-text-custom" : {
 			"received": "$100,000",
 			"fundraisers": "1,200",
 			"supporters": "6000",
@@ -110,7 +108,5 @@
 			"messages": "32,000",
 			"likelihood": "98",
 			"involved": "23"
-		}
-	}
   }
 }
