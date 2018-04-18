@@ -75,5 +75,42 @@
 		]
 	},
 	"chartType": "bar"
+  },
+  "smart-text": {
+	"all" : {
+		"received": "$100,000",
+		"fundraisers": "1,200",
+		"supporters": "6000",
+		"eachDonor": "30.00",
+		"emails": "200",
+		"people": "1200",
+		"messages": "32,000",
+		"likelihood": "98",
+		"involved": "23"
+	},
+	"recent" : {
+		"received": "$100,000",
+		"fundraisers": "1,200",
+		"supporters": "6000",
+		"eachDonor": "30.00",
+		"emails": "200",
+		"people": "1200",
+		"messages": "32,000",
+		"likelihood": "98",
+		"involved": "23"
+	},
+	"custom" : {
+		"july": {
+			"received": "$100,000",
+			"fundraisers": "1,200",
+			"supporters": "6000",
+			"eachDonor": "30.00",
+			"emails": "200",
+			"people": "1200",
+			"messages": "32,000",
+			"likelihood": "98",
+			"involved": "23"
+		}
+	}
   }
 }
